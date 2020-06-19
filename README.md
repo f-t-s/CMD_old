@@ -1,2 +1,2 @@
-# CMD
-The julia code for the paper on Competitive Mirror Descent
+# cmd
+Code for competitive mirror descent
